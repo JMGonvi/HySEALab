@@ -1,0 +1,25 @@
+# Datos (demasiado grandes para git)
+simulaciones/
+topobatimetrias/
+mallas/
+plots/
+EDANYA/
+topobathymetry initialization/
+
+# Subcarpeta con su propio repo git (edanya-uma/HySEALab)
+Github/
+
+# Scripts y ficheros que no son notebooks
+*.py
+*.cpp
+*.sh
+*.txt
+*.md
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Entorno Python y sistema
+.venv/
+.DS_Store
+.claude/
